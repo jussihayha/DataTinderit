@@ -14,9 +14,9 @@
 - [Sisällysluettelo](#sisällysluettelo)
   - [Projektin tausta](#Projektin-tausta)
   - [Konsepti](#konsepti)
-  - [Käyttäjätarinat](#käyttäjätarinat)
-    - [Loppukäyttäjä](#loppukäyttäjä)
-    - [YLE](#yle)
+  - [Käytetyt tekniikat](#käytetyt tekniikat)
+  - [Loppukäyttäjä](#loppukäyttäjä)
+  - [YLE](#yle)
   - [Tekninen kuvaus](#tekninen-kuvaus)
     - [Arkkitehtuuri](#arkkitehtuuri)
     - [NodeJS](#nodejs)
@@ -38,8 +38,12 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 * Suositussekoitus sisältää muutaman suosituksen knn-suosittelijasta, muutama täysin satunnainen suositus ja muutama tulee sen perusteella mistä käyttäjä on aiemmin tykännyt.
 * Listaruudussa voi olla myös top 10 tykätyimmät ohjelmat sekä esimerkkinä vaikka komediat näkyvillä. 
 ​
-## Käyttäjätarinat
-Yleinen kuvaus tämän projektin sidosryhmistä, joista rakennamme käyttäjätarinoita.
+## Käytetyt tekniikat
+
+* MongoDB
+* Phyton
+* React-Native
+* Nodejs.
 
 ### Loppukäyttäjä
 Henkilö, joka käyttää sovellusta.
