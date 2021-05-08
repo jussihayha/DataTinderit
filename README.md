@@ -117,7 +117,6 @@ This is an open source project licensed under ??
 Hyvärinen Laura, Häyhä Jussi, Korhonen Pekka, Korhonen Sasu ja Sanden Marketta
 
 ## Acknowledgements
-
-
+Thanks to YLE for api data.
 
 
