@@ -73,6 +73,7 @@ navigate to DataTinderiFront directory:
 run
 
 `npm install
+
 expo start`
 
 ## Prerequitest backend
