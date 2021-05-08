@@ -56,10 +56,10 @@ As prequisite to get the application up and running you need to have installed t
 
   * npm
   * expo CLI
-  * expo-mobiilisovellus mobiililaitteellesi tai emulaattori, katso yksityiskohtaiset Expo-ohjeet osoitteesta: https://expo.io/
+  * emulator or expo mobile app in your mobile device, See detailed Expo documentation from https://expo.io/
 
 ## Prerequitest backend
-Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
+This is an example of how to list things you need to use the software and how to install them.
 
 ### Arkkitehtuuri
 Kuvaus tekniikoiden ja rajapintojen yhteyksistä. Sanallisesti kuvattuna sekä visuaalisesti.
