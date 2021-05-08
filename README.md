@@ -14,8 +14,8 @@
 - [Sisällysluettelo](#sisällysluettelo)
   - [Projektin tausta](#Projektin-tausta)
   - [Konsepti](#konsepti)
-  - [Käytetyt tekniikat](#käytetyt tekniikat)
-  - [Loppukäyttäjä](#loppukäyttäjä)
+  - [Käytetyt tekniikat](#käytetyt-tekniikat)
+- [Kuinka pääsen alkuun](#kuinka-pääsen-alkuun)
   - [YLE](#yle)
   - [Tekninen kuvaus](#tekninen-kuvaus)
     - [Arkkitehtuuri](#arkkitehtuuri)
@@ -45,7 +45,7 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 * React-Native
 * Nodejs.
 
-### Loppukäyttäjä
+## Kuinka pääsen alkuun
 Henkilö, joka käyttää sovellusta.
 
 ### YLE
