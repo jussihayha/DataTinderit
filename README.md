@@ -12,7 +12,7 @@
 
 # Sisällysluettelo
 - [Sisällysluettelo](#sisällysluettelo)
-  - [Taustat](#taustat)
+ 1. [Projektin tausta](#Projektin tausta)
   - [Konsepti](#konsepti)
   - [Käyttäjätarinat](#käyttäjätarinat)
     - [Loppukäyttäjä](#loppukäyttäjä)
