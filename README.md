@@ -40,10 +40,10 @@ Käyttäjä pystyy katsomaan Yle Areenan ohjelmia sovelluksen kautta ja antamaan
 Yleinen kuvaus tämän projektin sidosryhmistä, joista rakennamme käyttäjätarinoita.
 
 ### Loppukäyttäjä
-Se, joka käyttää sovellusta.
+Henkilö, joka käyttää sovellusta.
 
 ### YLE
-Se, joka saa tietoa sovelluksen käytöstä.
+Organisaatio, joka saa tietoa (dataa) sovelluksen käytöstä. YLE pähkinänkuoressa: https://yle.fi/aihe/artikkeli/yleisradio/yle-pahkinankuoressa
 
 ## Tekninen kuvaus
 Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
