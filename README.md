@@ -16,7 +16,7 @@
   - [Konsepti](#konsepti)
   - [Käytetyt tekniikat](#käytetyt-tekniikat)
 - [Kuinka pääsen alkuun](#kuinka-pääsen-alkuun)
-  - [YLE](#yle)
+  - [Ennakkotoimet FrontEnd](#ennakkotoimet-FrontEnd)
   - [Tekninen kuvaus](#tekninen-kuvaus)
     - [Arkkitehtuuri](#arkkitehtuuri)
     - [NodeJS](#nodejs)
@@ -46,10 +46,10 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 * Nodejs.
 
 ## Kuinka pääsen alkuun
-Henkilö, joka käyttää sovellusta.
+Tässä kappaleessa ohjeet kuinka saat paikallisen kopion käyttöösi.
 
-### YLE
-Organisaatio, joka saa tietoa (dataa) sovelluksen käytöstä.
+### Ennakkotoimet FrontEnd
+Tässä lista asioista, joita tarvitset ohjelmistojen käyttöön ja kuinka asennus tapahtuu.
 
 ## Tekninen kuvaus
 Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
