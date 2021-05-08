@@ -73,9 +73,9 @@ navigate to DataTinderiFront directory:
 
 run
 
-`npm install
+`npm install`
 
-expo start`
+`expo start`
 
 ## Prerequitest backend
 This is an example of how to list things you need to use the software and how to install them.
