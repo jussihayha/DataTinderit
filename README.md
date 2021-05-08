@@ -10,10 +10,10 @@
 
 ![logo](./images/DataTinderlogo.JPG)
 
-# Sisällysluettelo
-- [Sisällysluettelo](#sisällysluettelo)
-  - [Projektin tausta](#Projektin-tausta)
-  - [Konsepti](#konsepti)
+# Tables of contents
+- [Tables of contents](#Tables-of-contents)
+  - [About The Project](#about-the project)
+  - [Concept](#concept)
   - [Käytetyt tekniikat](#käytetyt-tekniikat)
 - [Kuinka pääsen alkuun](#kuinka-pääsen-alkuun)
   - [Ennakkotoimet frontend](#ennakkotoimet-frontend)
@@ -23,14 +23,14 @@
     - [Python/Azure/Jne](#pythonazurejne)
     - [Tietokanta](#tietokanta)
 
-## Projektin tausta
+## About The Project
 Tämä repository on osa Haaga-Helia ammattikorkeakoulun Ohjelmistoprojekti II -kurssia. Kurssin tavoittena on luoda uusi sovellus, palvelu tai muita hyödyttävä opensource lisäosa käyttämällä avointa dataa. 
 
 Kurssin yritysyhteistyökumppanina toimi YLE, joka esitteli omia avoimia rajapintojaan ja kertoi toiveistaan ja ideoistaa, että miten niitä voisi hyödyntää.
 
 Päädyimme käyttämään Ylen Areena-rajapintaa, joka tarjoaa tietoa erilaisesta materiaalista, joka on saatavilla Areenan kautta. 
 
-## Konsepti
+## Concept
 Haluamme tarjota käyttäjälle sovelluksen, jolla voi hyödyntää Yle Areenan sisältöä. Konseptille on tarve, sillä Areenassa ei ole käyttäjäsidonnaista suosittelua. ​
 Sovelluksemme antaa suosituksia Yle Areenan sisällöstä käyttäjälle, joka voi hyväksyä tai hylätä suositellut ehdotukset Tinderistä tutulla tavalla eli  "swaippaamalla" ne sovelluksen ruudulla oikealle tai vasemmalla. Jos sovelluksen antamasta ehdotuksesta "tykätään" (swaipataan oikealle), ehdotus siirtyy "tykkäsit näistä" -listalle. Jos käyttäjä avaa sovelluksen ensimmäisen kerran niin sovellus kertoo lyhyesti, että käyttäjän tulee swaippailla hetki ohjelmia ja mennä sen jälkeen katsomaan, että mitä suosituksia on saanut. ​
 Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
