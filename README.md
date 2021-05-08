@@ -16,7 +16,7 @@
   - [Konsepti](#konsepti)
   - [Käytetyt tekniikat](#käytetyt-tekniikat)
 - [Kuinka pääsen alkuun](#kuinka-pääsen-alkuun)
-  - [Ennakkotoimet FrontEnd](#ennakkotoimet-FrontEnd)
+  - [Ennakkotoimet frontend](#ennakkotoimet-FrontEnd)
   - [Tekninen kuvaus](#tekninen-kuvaus)
     - [Arkkitehtuuri](#arkkitehtuuri)
     - [NodeJS](#nodejs)
@@ -48,8 +48,15 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 ## Kuinka pääsen alkuun
 Tässä kappaleessa ohjeet kuinka saat paikallisen kopion käyttöösi.
 
-### Ennakkotoimet FrontEnd
+### Ennakkotoimet frontend
 Tässä lista asioista, joita tarvitset ohjelmistojen käyttöön ja kuinka asennus tapahtuu.
+
+## Askel 1
+Tee seuraavat ennakkotoimet ja asenna:
+
+  * npm
+  * expo CLI
+  * 
 
 ## Tekninen kuvaus
 Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
