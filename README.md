@@ -17,8 +17,9 @@
   - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequites frontend](#prerequites-frontend)
+    - [Installation](#installation)
   - [Prerequitest backend](#Prerequites-backend)
-    - [Arkkitehtuuri](#arkkitehtuuri)
+    - [Installation](#insatallation)
     - [NodeJS](#nodejs)
     - [Python/Azure/Jne](#pythonazurejne)
     - [Tietokanta](#tietokanta)
@@ -51,30 +52,29 @@ This is an example of how you may give instructions on setting up your project l
 ### Prerequitest frontend
 This is an example of how to list things you need to use the software and how to install them.
 
-## Step 1
-As prequisite to get the application up and running you need to have installed the following:
-
   * npm
+    `npm install npm@latest -g`
   * expo CLI
   * emulator or expo mobile app in your mobile device, See detailed Expo documentation from https://expo.io/
 
-## Step 2
+### Installation
 
 Clone or download this project
 git clone `https://github.com/laurahyvari/DataTinderiFront.git`
 
 navigate to MapFox directory:
-cd / path_to / DataTinderiFront
+
+`cd / path_to / DataTinderiFront`
 
 run
 
-npm install
-expo start
+`npm install
+expo start`
 
-## Prerequitest backend
+### Prerequitest backend
 This is an example of how to list things you need to use the software and how to install them.
 
-### Arkkitehtuuri
+### Installation
 Kuvaus tekniikoiden ja rajapintojen yhteyksistä. Sanallisesti kuvattuna sekä visuaalisesti.
 
 ![Arkkitehtuuri_proto](./images/arkkitehtuuri_proto.png)
