@@ -58,6 +58,11 @@ As prequisite to get the application up and running you need to have installed t
   * expo CLI
   * emulator or expo mobile app in your mobile device, See detailed Expo documentation from https://expo.io/
 
+## Step 2
+
+Clone or download this project
+
+
 ## Prerequitest backend
 This is an example of how to list things you need to use the software and how to install them.
 
