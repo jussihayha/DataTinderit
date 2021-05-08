@@ -24,7 +24,7 @@
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Lisence](#Lisence)
-- [Contact](#Contact)
+- [Authors](#Authors)
 - [Acknowledgements](#Acknowledgements)
 
 ## About The Project
@@ -96,17 +96,24 @@ run
 
 
 ## Usage
-Sanallisesti kuvattu, että mitkä on backendin merkityksellisimmät tehtävät projektissa.
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 ## Roadmap
-Projektin pihvi. Se, millä tuotteella tai tavalla prosessoimme datan niin, että voimme toimittaa käyttäjälle (ja loppujen lopuksi) Ylelle lisäarvoa.
+See the open issues for a list of proposed features (and known issues).
 
 ## Contributing
-Kuvaus käyttämistämme tiedon säilömisen ratkaisuista ja lyhyet perustelut, että miksi mitäkin on käytetty. On mahdollista, että tietokantoja on useita, sillä kaiken datan ei välttämättä kannata asua samassa kannassa.
+
+* Fork the Project
+* Create your Feature Branch
+* Commit your Changes
+* Push to the Branch
+* Open a Pull Request
 
 ## License
+This is an open source project licensed under ??
 
-## Contact
+## Authors
+Hyvärinen Laura, Häyhä Jussi, Korhonen Pekka, Korhonen Sasu ja Sanden Marketta
 
 ## Acknowledgements
 
