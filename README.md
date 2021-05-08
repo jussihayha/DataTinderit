@@ -46,13 +46,13 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 * Nodejs.
 
 ## Getting Started
-Tässä kappaleessa ohjeet kuinka saat paikallisen kopion käyttöösi.
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps
 
 ### Prerequitest frontend
-Tässä lista asioista, joita tarvitset ohjelmistojen käyttöön ja kuinka asennus tapahtuu.
+This is an example of how to list things you need to use the software and how to install them.
 
 ## Step 1
-Tee seuraavat ennakkotoimet ja asenna:
+As prequisite to get the application up and running you need to have installed the following:
 
   * npm
   * expo CLI
