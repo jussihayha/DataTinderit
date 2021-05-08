@@ -35,9 +35,6 @@ The business partner of the course was YLE.
 We ended up using Yle’s Aarena interface, which provides information on the various materials available through the Aarena. 
 
 ## Concept
-
-1150 / 5000
-Käännöstulokset
 We want to provide the user with an application that can utilize the content of Yle Areena. There is a need for the concept, as there is no user-specific recommendation in the Arena. Our app gives recommendations about Yle Arena content to a user who can accept or reject recommended suggestions from Tinder in a familiar way, i.e. by “swiping” them to the right or left of the app screen. If a proposal from an app is "liked" (swip right), the proposal goes to the "liked these" list. If the user opens the app for the first time then the app will briefly say that the user should swap a moment for the programs and then go see what recommendations have been received. After five swaps, the user is prompted to go to the list.
 * The list box contains programs recommended for the user. Recommendations can consist of recommendations from other users.
 * The recommendation mix includes a few recommendations from the knn recommender, a few completely random recommendations, and a few based on what the user has previously liked.
@@ -82,7 +79,6 @@ This is an example of how to list things you need to use the software and how to
 
 * mongoDB
 * Nodejs.
-* 
 
 ### Installation
 Clone or download this project
