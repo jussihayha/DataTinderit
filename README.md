@@ -8,7 +8,7 @@
 [product-screenshot]: images/logo_viritys_transparent.png
 
 
-![logo](./images/DataTinderlogo.JPG)
+![logo](./images/DatatinderiLogo.JPG)
 
 # Tables of contents
 - [Tables of contents](#Tables-of-contents)
