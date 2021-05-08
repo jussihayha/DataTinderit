@@ -23,7 +23,7 @@
     - [Python/Azure/Jne](#pythonazurejne)
     - [Tietokanta](#tietokanta)
 
-## Taustat 
+## Projektin tausta
 Tämä repository on osa Haaga-Helia ammattikorkeakoulun Ohjelmistoprojekti II -kurssia. Kurssin tavoittena on luoda uusi sovellus, palvelu tai muita hyödyttävä opensource lisäosa käyttämällä avointa dataa. 
 
 Kurssin yritysyhteistyökumppanina toimi YLE, joka esitteli omia avoimia rajapintojaan ja kertoi toiveistaan ja ideoistaa, että miten niitä voisi hyödyntää.
