@@ -19,7 +19,7 @@
   - [Prerequites frontend](#prerequites-frontend)
     - [Installation](#installation)
   - [Prerequitest backend](#Prerequites-backend)
-    - [Installation](#insatallation)
+    - [Installation](#installation)
     - [NodeJS](#nodejs)
     - [Python/Azure/Jne](#pythonazurejne)
     - [Tietokanta](#tietokanta)
