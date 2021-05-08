@@ -35,12 +35,13 @@ The business partner of the course was YLE.
 We ended up using Yle’s Aarena interface, which provides information on the various materials available through the Aarena. 
 
 ## Concept
-Haluamme tarjota käyttäjälle sovelluksen, jolla voi hyödyntää Yle Areenan sisältöä. Konseptille on tarve, sillä Areenassa ei ole käyttäjäsidonnaista suosittelua. ​
-Sovelluksemme antaa suosituksia Yle Areenan sisällöstä käyttäjälle, joka voi hyväksyä tai hylätä suositellut ehdotukset Tinderistä tutulla tavalla eli  "swaippaamalla" ne sovelluksen ruudulla oikealle tai vasemmalla. Jos sovelluksen antamasta ehdotuksesta "tykätään" (swaipataan oikealle), ehdotus siirtyy "tykkäsit näistä" -listalle. Jos käyttäjä avaa sovelluksen ensimmäisen kerran niin sovellus kertoo lyhyesti, että käyttäjän tulee swaippailla hetki ohjelmia ja mennä sen jälkeen katsomaan, että mitä suosituksia on saanut. ​
-Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
-* Listaruutu sisältää käyttäjälle suositeltuja ohjelmia. Suosittelut voivat koostua muiden käyttäjien suosituksista
-* Suositussekoitus sisältää muutaman suosituksen knn-suosittelijasta, muutama täysin satunnainen suositus ja muutama tulee sen perusteella mistä käyttäjä on aiemmin tykännyt.
-* Listaruudussa voi olla myös top 10 tykätyimmät ohjelmat sekä esimerkkinä vaikka komediat näkyvillä. 
+
+1150 / 5000
+Käännöstulokset
+We want to provide the user with an application that can utilize the content of Yle Areena. There is a need for the concept, as there is no user-specific recommendation in the Arena. Our app gives recommendations about Yle Arena content to a user who can accept or reject recommended suggestions from Tinder in a familiar way, i.e. by “swiping” them to the right or left of the app screen. If a proposal from an app is "liked" (swip right), the proposal goes to the "liked these" list. If the user opens the app for the first time then the app will briefly say that the user should swap a moment for the programs and then go see what recommendations have been received. After five swaps, the user is prompted to go to the list.
+* The list box contains programs recommended for the user. Recommendations can consist of recommendations from other users.
+* The recommendation mix includes a few recommendations from the knn recommender, a few completely random recommendations, and a few based on what the user has previously liked.
+* The list box can also contain the top 10 most liked programs as well as an example even if the comedies are displayed.
 ​
 ## Built With
 
