@@ -32,10 +32,12 @@ Päädyimme käyttämään Ylen Areena-rajapintaa, joka tarjoaa tietoa erilaises
 
 ## Konsepti
 Haluamme tarjota käyttäjälle sovelluksen, jolla voi hyödyntää Yle Areenan sisältöä. Konseptille on tarve, sillä Areenassa ei ole käyttäjäsidonnaista suosittelua. ​
-Sovelluksemme antaa suosituksia Yle Areenan sisällöstä käyttäjälle, joka voi hyväksyä tai hylätä suositellut ehdotukset Tinderistä tutulla tavalla eli  "swaippaamalla" ne sovelluksen ruudulla oikealle tai vasemmalla. Jos sovelluksen antamasta ehdotuksesta "tykätään" (swaipataan oikealle), ehdotus siirtyy "tykkäsit näistä" -listalle. Jos käyttäjä avaa sovelluksen ensimmäisen kerran niin sovellus kertoo lyhyesti, että käyttäjän tulee swaippailla hetki ohjelmia ja mennä sen jälkeen katsomaan, että mitä suosituksia on saanut. Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun, joka sisältää käyttäjälle suositeltuja ohjelmia. Suosittelut voivat koostua muiden käyttäjien suosituksista, muutama suositus tulee sen perusteella mistä käyttäjä on aiemmin tykännyt ja listaruudussa voi olla myös top 10 tykätyimmät ohjelmat ja esimerkkinä vaikka komediat näkvillä. Tämän jälkeen sovellus tarjoaa vaihtoehtona joko jatkaa ehdotusten läpikäyntiä tai siirtyä katsomaan sisältöä. Suositukset tallentuvat käyttäjäkohtaisesti, ja käyttäjä voi palata uudestaan selaamaan ja muokkaamaan omaa katselulistaansa. Sovellus hyödyntää koneoppimista suositusten tekemisessä ja oppii suosittelemaan käyttäjälle sisältöä paremmin käyttäjän mieltymysten mukaan.​
-
-Käyttäjä pystyy katsomaan Yle Areenan ohjelmia sovelluksen kautta ja antamaan niille arvosanan (1-5 tähteä) halutessaan. Sovellus myös raportoi ohjelmien katselutietoja Ylelle, mikä on Ylen rajapinnan käyttämisen ehtona.
-
+Sovelluksemme antaa suosituksia Yle Areenan sisällöstä käyttäjälle, joka voi hyväksyä tai hylätä suositellut ehdotukset Tinderistä tutulla tavalla eli  "swaippaamalla" ne sovelluksen ruudulla oikealle tai vasemmalla. Jos sovelluksen antamasta ehdotuksesta "tykätään" (swaipataan oikealle), ehdotus siirtyy "tykkäsit näistä" -listalle. Jos käyttäjä avaa sovelluksen ensimmäisen kerran niin sovellus kertoo lyhyesti, että käyttäjän tulee swaippailla hetki ohjelmia ja mennä sen jälkeen katsomaan, että mitä suosituksia on saanut. 
+Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
+* Listaruutu sisältää käyttäjälle suositeltuja ohjelmia. Suosittelut voivat koostua muiden käyttäjien suosituksista
+* Suositussekoitus sisältää muutaman suosituksen knn-suosittelijasta, muutama täysin satunnainen suositus ja muutama tulee sen perusteella mistä käyttäjä on aiemmin tykännyt.
+* Listaruudussa voi olla myös top 10 tykätyimmät ohjelmat sekä esimerkkinä vaikka komediat näkyvillä. 
+​
 ## Käyttäjätarinat
 Yleinen kuvaus tämän projektin sidosryhmistä, joista rakennamme käyttäjätarinoita.
 
