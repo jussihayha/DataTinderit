@@ -61,7 +61,15 @@ As prequisite to get the application up and running you need to have installed t
 ## Step 2
 
 Clone or download this project
+git clone `https://github.com/laurahyvari/DataTinderiFront.git`
 
+navigate to MapFox directory:
+cd / path_to / DataTinderiFront
+
+run
+
+npm install
+expo start
 
 ## Prerequitest backend
 This is an example of how to list things you need to use the software and how to install them.
