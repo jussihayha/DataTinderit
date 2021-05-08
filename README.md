@@ -12,12 +12,12 @@
 
 # Tables of contents
 - [Tables of contents](#Tables-of-contents)
-  - [About The Project](#about-the project)
+  - [About The Project](#about-the-project)
   - [Concept](#concept)
-  - [Käytetyt tekniikat](#käytetyt-tekniikat)
-- [Kuinka pääsen alkuun](#kuinka-pääsen-alkuun)
-  - [Ennakkotoimet frontend](#ennakkotoimet-frontend)
-  - [Ennakkotoimet backend](#ennakkotoimet-backend)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequites frontend](#prerequites-frontend)
+  - [Prerequitest backend](#Prerequites-backend)
     - [Arkkitehtuuri](#arkkitehtuuri)
     - [NodeJS](#nodejs)
     - [Python/Azure/Jne](#pythonazurejne)
@@ -38,27 +38,27 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 * Suositussekoitus sisältää muutaman suosituksen knn-suosittelijasta, muutama täysin satunnainen suositus ja muutama tulee sen perusteella mistä käyttäjä on aiemmin tykännyt.
 * Listaruudussa voi olla myös top 10 tykätyimmät ohjelmat sekä esimerkkinä vaikka komediat näkyvillä. 
 ​
-## Käytetyt tekniikat
+## Built With
 
 * MongoDB
 * Phyton
 * React-Native
 * Nodejs.
 
-## Kuinka pääsen alkuun
+## Getting Started
 Tässä kappaleessa ohjeet kuinka saat paikallisen kopion käyttöösi.
 
-### Ennakkotoimet frontend
+### Prerequitest frontend
 Tässä lista asioista, joita tarvitset ohjelmistojen käyttöön ja kuinka asennus tapahtuu.
 
-## Askel 1
+## Step 1
 Tee seuraavat ennakkotoimet ja asenna:
 
   * npm
   * expo CLI
   * expo-mobiilisovellus mobiililaitteellesi tai emulaattori, katso yksityiskohtaiset Expo-ohjeet osoitteesta: https://expo.io/
 
-## Ennakkotoimet backend
+## Prerequitest backend
 Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
 
 ### Arkkitehtuuri
