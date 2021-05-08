@@ -20,9 +20,12 @@
     - [Installation](#installation)
   - [Prerequitest backend](#Prerequites-backend)
     - [Installation](#installation)
-    - [NodeJS](#nodejs)
-    - [Python/Azure/Jne](#pythonazurejne)
-    - [Tietokanta](#tietokanta)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [Lisence](#Lisence)
+- [Contact](#Contact)
+- [Acknowledgements](#Acknowledgements)
 
 ## About The Project
 This repository is part of Haaga-Helia University of Applied Sciences' Software Project II course. The aim of the course is to create a new application using open data. 
@@ -81,26 +84,31 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 Clone or download this project
-git clone `https://github.com/laurahyvari/DataTinderiFront.git`
+git clone `https://github.com/bgf122/dataTinderBack.git`
 
 navigate to DataTinderiFront directory:
 
-`cd / path_to / DataTinderiFront`
+`cd / path_to / dataTinderBack`
 
 run
 
-`npm install`´
+`npm install`
 
 
-
-### NodeJS
+## Usage
 Sanallisesti kuvattu, että mitkä on backendin merkityksellisimmät tehtävät projektissa.
 
-### Python/Azure/Jne
+## Roadmap
 Projektin pihvi. Se, millä tuotteella tai tavalla prosessoimme datan niin, että voimme toimittaa käyttäjälle (ja loppujen lopuksi) Ylelle lisäarvoa.
 
-### Tietokanta
+## Contributing
 Kuvaus käyttämistämme tiedon säilömisen ratkaisuista ja lyhyet perustelut, että miksi mitäkin on käytetty. On mahdollista, että tietokantoja on useita, sillä kaiken datan ei välttämättä kannata asua samassa kannassa.
+
+## License
+
+## Contact
+
+## Acknowledgements
 
 
 
