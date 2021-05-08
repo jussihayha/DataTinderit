@@ -58,7 +58,7 @@ Tee seuraavat ennakkotoimet ja asenna:
   * expo CLI
   * expo-mobiilisovellus mobiililaitteellesi tai emulaattori, katso yksityiskohtaiset Expo-ohjeet osoitteesta: https://expo.io/
 
-## Tekninen kuvaus
+## Ennakkotoimet backend
 Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
 
 ### Arkkitehtuuri
