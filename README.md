@@ -49,12 +49,13 @@ Viiden swaippauksen jälkeen käyttäjä ohjataan siirtymään listaruutuun.
 ## Getting Started
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps
 
-### Prerequitest frontend
+## Prerequitest frontend
 This is an example of how to list things you need to use the software and how to install them.
 
   * npm
     `npm install npm@latest -g`
   * expo CLI
+    `expo start`
   * emulator or expo mobile app in your mobile device, See detailed Expo documentation from https://expo.io/
 
 ### Installation
@@ -62,7 +63,7 @@ This is an example of how to list things you need to use the software and how to
 Clone or download this project
 git clone `https://github.com/laurahyvari/DataTinderiFront.git`
 
-navigate to MapFox directory:
+navigate to DataTinderiFront directory:
 
 `cd / path_to / DataTinderiFront`
 
@@ -71,13 +72,26 @@ run
 `npm install
 expo start`
 
-### Prerequitest backend
+## Prerequitest backend
 This is an example of how to list things you need to use the software and how to install them.
 
-### Installation
-Kuvaus tekniikoiden ja rajapintojen yhteyksistä. Sanallisesti kuvattuna sekä visuaalisesti.
+* mongoDB
+* Nodejs.
+* 
 
-![Arkkitehtuuri_proto](./images/arkkitehtuuri_proto.png)
+### Installation
+Clone or download this project
+git clone `https://github.com/laurahyvari/DataTinderiFront.git`
+
+navigate to DataTinderiFront directory:
+
+`cd / path_to / DataTinderiFront`
+
+run
+
+`npm install`´
+
+
 
 ### NodeJS
 Sanallisesti kuvattu, että mitkä on backendin merkityksellisimmät tehtävät projektissa.
