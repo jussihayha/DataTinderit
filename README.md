@@ -45,7 +45,7 @@ Yleinen kuvaus tämän projektin sidosryhmistä, joista rakennamme käyttäjäta
 Henkilö, joka käyttää sovellusta.
 
 ### YLE
-Organisaatio, joka saa tietoa (dataa) sovelluksen käytöstä. YLE pähkinänkuoressa: https://yle.fi/aihe/artikkeli/yleisradio/yle-pahkinankuoressa
+Organisaatio, joka saa tietoa (dataa) sovelluksen käytöstä.
 
 ## Tekninen kuvaus
 Tämä sisältää tarkempia kuvauksia käyttämistämme tekniikoista.
