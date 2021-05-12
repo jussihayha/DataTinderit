@@ -52,8 +52,8 @@ We wanted to provide the user with an application that can utilize the content o
 This repository contains general information about the project and we have separate repositories for the frontend application, and for the backend server.  
 These are available here:
 
-Frontend: https://github.com/laurahyvari/DataTinderiFront.git
-Backend: https://github.com/bgf122/dataTinderBack.git
+- Frontend: https://github.com/laurahyvari/DataTinderiFront.git
+- Backend: https://github.com/bgf122/dataTinderBack.git
 
 ## Roadmap
 Our current situation is that we have a working proof of concept for a fullstack solution that offers an application with recommendations.
@@ -65,7 +65,7 @@ If we look at the history of this project we can see the following milestones th
 - defining this project 
 - understanding the datastructure of YLE API
 - creating possible user stories
-- 
+
 ### Sprint 1
 - creating a simple backend that offers data
 - creating a tinderlike swipe mechanic
@@ -76,7 +76,6 @@ If we look at the history of this project we can see the following milestones th
 - developing functionalities needed for gathering data about users and adding authentication
 
 ### Sprint 3 
-
 
 
 ## Contributing
