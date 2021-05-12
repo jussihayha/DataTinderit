@@ -48,64 +48,19 @@ We wanted to provide the user with an application that can utilize the content o
 * NodeJS
 * Expo
 
-## Getting Started
+## Introduction
 This repository contains general information about the project and we have separate repositories for the frontend application, and for the backend server.  
 These are available here:
 
-
-
-
-## Prerequitest frontend
-This is an example of how to list things you need to use the software and how to install them.
-
-  * npm
-    `npm install npm@latest -g`
-  * expo CLI
-    `expo start`
-  * emulator or expo mobile app in your mobile device, See detailed Expo documentation from https://expo.io/
-
-### Installation
-
-Clone or download this project
-git clone `https://github.com/laurahyvari/DataTinderiFront.git`
-
-navigate to DataTinderiFront directory:
-
-`cd / path_to / DataTinderiFront`
-
-run
-
-`npm install`
-
-`expo start`
-
-## Prerequitest backend
-This is an example of how to list things you need to use the software and how to install them.
-
-* mongoDB
-* Nodejs.
-
-### Installation
-Clone or download this project
-git clone `https://github.com/bgf122/dataTinderBack.git`
-
-navigate to DataTinderiFront directory:
-
-`cd / path_to / dataTinderBack`
-
-run
-
-`npm install`
-
-
-## Usage
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Frontend: https://github.com/laurahyvari/DataTinderiFront.git
+Backend: https://github.com/bgf122/dataTinderBack.git
 
 ## Roadmap
 Our current situation is that we have a working proof of concept for a fullstack solution that offers an application with recommendations.
 Next natural steps would be to make this as modular as possible so that you can change data sources and authentication methods fluently and with relative ease.
 
 If we look at the history of this project we can see the following milestones that we went through
+
 ### Sprint 0
 - defining this project 
 - understanding the datastructure of YLE API
@@ -120,7 +75,9 @@ If we look at the history of this project we can see the following milestones th
 - extending and developing our backend to offer better possibilities for frontend side
 - developing functionalities needed for gathering data about users and adding authentication
 
-# Sprint 3 
+### Sprint 3 
+
+
 
 ## Contributing
 
