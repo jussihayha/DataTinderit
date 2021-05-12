@@ -53,6 +53,8 @@ This repository contains general information about the project and we have separ
 These are available here:
 
 
+
+
 ## Prerequitest frontend
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -100,7 +102,25 @@ run
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 ## Roadmap
-See the open issues for a list of proposed features (and known issues).
+Our current situation is that we have a working proof of concept for a fullstack solution that offers an application with recommendations.
+Next natural steps would be to make this as modular as possible so that you can change data sources and authentication methods fluently and with relative ease.
+
+If we look at the history of this project we can see the following milestones that we went through
+### Sprint 0
+- defining this project 
+- understanding the datastructure of YLE API
+- creating possible user stories
+- 
+### Sprint 1
+- creating a simple backend that offers data
+- creating a tinderlike swipe mechanic
+- adjusting our user stories to reflect knowledge acquired during sprint 0
+
+### Sprint 2
+- extending and developing our backend to offer better possibilities for frontend side
+- developing functionalities needed for gathering data about users and adding authentication
+
+# Sprint 3 
 
 ## Contributing
 
@@ -111,12 +131,13 @@ See the open issues for a list of proposed features (and known issues).
 * Open a Pull Request
 
 ## License
-This is an open source project licensed under ??
+This is an open source project licensed under MIT
 
 ## Authors
 Hyvärinen Laura, Häyhä Jussi, Korhonen Pekka, Korhonen Sasu ja Sanden Marketta
 
 ## Acknowledgements
-Thanks to YLE for api data.
+Thanks to YLE for giving access to their data
+Ohto Rainio for developing knn-recommender
 
 
